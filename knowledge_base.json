@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Agentic AI & Generative AI Masterclass",
+    "category": "course",
+    "url": "https://bigbrains.example.com/courses/agentic-ai",
+    "content": "Comprehensive 12-week program covering Autonomous Agents, LLM Fine-tuning, RAG architecture, LangChain, and LangGraph. Prerequisites: Python proficiency. Fee: $250 with flexible installments. Includes capstone industry defense and verified certification.",
+    "keywords": [
+      "covering",
+      "week",
+      "industry",
+      "installments",
+      "architecture",
+      "python",
+      "comprehensive",
+      "fine",
+      "agents",
+      "flexible"
+    ]
+  },
+  {
+    "title": "Full Stack Web Engineering (Django & React)",
+    "category": "course",
+    "url": "https://bigbrains.example.com/courses/fullstack",
+    "content": "16-week live bootcamp covering PostgreSQL, Django REST Framework, modern React/Tailwind frontend, Docker, and CI/CD pipelines. Projects included: E-commerce and AI CMS. Schedule: Weekend live labs and weekday assignments.",
+    "keywords": [
+      "tailwind",
+      "covering",
+      "modern",
+      "assignments",
+      "week",
+      "included",
+      "commerce",
+      "rest",
+      "weekend",
+      "pipelines"
+    ]
+  },
+  {
+    "title": "Big Brains Virtual Internship Program",
+    "category": "internship",
+    "url": "https://bigbrains.example.com/internships",
+    "content": "6 to 8-week structured virtual internship for top-performing students. Interns collaborate on client deliverables, participate in code reviews, and receive recommendation letters alongside a performance stipend.",
+    "keywords": [
+      "letters",
+      "week",
+      "participate",
+      "stipend",
+      "recommendation",
+      "performing",
+      "performance",
+      "students",
+      "client",
+      "alongside"
+    ]
+  },
+  {
+    "title": "Corporate AI & Enterprise Transformation",
+    "category": "service",
+    "url": "https://bigbrains.example.com/services",
+    "content": "Big Brains provides tailored enterprise training, agentic workflow automation, and custom model deployment for enterprises and educational institutions.",
+    "keywords": [
+      "deployment",
+      "workflow",
+      "enterprises",
+      "enterprise",
+      "agentic",
+      "model",
+      "tailored",
+      "brains",
+      "provides",
+      "educational"
+    ]
+  },
+  {
+    "title": "Refund and Certification Policy",
+    "category": "policy",
+    "url": "https://bigbrains.example.com/policies",
+    "content": "Students can request a 100% refund within the first 7 days of course commencement. Verified digital certificates require at least 80% lab attendance and a passing capstone evaluation score.",
+    "keywords": [
+      "days",
+      "course",
+      "attendance",
+      "certificates",
+      "first",
+      "digital",
+      "least",
+      "score",
+      "students",
+      "request"
+    ]
+  },
+  {
+    "title": "Free Learning Community & Code Repositories",
+    "category": "resource",
+    "url": "https://bigbrains.example.com/resources",
+    "content": "Access free starter kits, GitHub boilerplate code, weekend webinars, and our 24/7 Discord support community for peer troubleshooting.",
+    "keywords": [
+      "discord",
+      "code",
+      "webinars",
+      "peer",
+      "starter",
+      "github",
+      "weekend",
+      "boilerplate",
+      "community",
+      "troubleshooting"
+    ]
+  }
+]
